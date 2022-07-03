@@ -1,18 +1,10 @@
 {
   "name": "medcenter",
   "version": "0.1.0",
-  "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yamchinsky/medcanter.git"
-  },
+  "public": true,
   "keywords": [],
   "author": "Pavlo <y.p.p@i.ua>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yamchinsky/medcenter/issues"
-  },
-  "homepage": "https://github.com/yamchinsky/medcenter#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
